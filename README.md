@@ -5,9 +5,11 @@ HCE additions to DS 102 course topic of Algorithmic Fairness
 # What is Added?
 
 *Lecture*
+
 We added four slides to the DS 102 lecture 05, covering COMPAS as black box, questioning why COMPAS calibrated for gender but not race, and including an extended discussion of accuracy v. fairness 'tradeoff' with suggested class questions.
 
 *Lab*
+
 We added two paragraphs to the introduction of the homework, citing *Wisconsin v. Loomis (2016)* and re-introducing the concept of a black box through that lens.
 
 We added a paragraph on decile scores, explaining how COMPAS generates them, what they mean, and the different 'normative groups' COMPAS divides people into. Following this information, we ask students to consider why COMPAS created the normative groups, and suggest another normative group attribute which could be added.
