@@ -14,7 +14,7 @@ We added a paragraph on decile scores, explaining how COMPAS generates them, wha
 
 Finally, we added questions in the "Conclusions and Implications" section, asking students to recapitulate the *Washington v. Loomis* decision and discuss why courts might and might not be interested in using COMPAS.
 
-# Added Learning Objectives
+# HCE Learning Objectives
 
 1. Students will consider why certain classification decisions are made.
 2. Students will consider how classifications relate to representation, and articulate the stakes of classification decisions.
